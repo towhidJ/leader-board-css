@@ -167,6 +167,12 @@ hr{
 .course-title{
     font-size: 23px;
 }
+.course-time{
+    border: 1px solid red;
+    background-color:#FFE4E8; 
+    border-radius: 14px;
+    padding:0 15px;
+}
 .fa-star{
     font-size:12px;
 }
