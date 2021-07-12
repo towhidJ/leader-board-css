@@ -198,7 +198,9 @@ footer{
 
 @media only screen and (max-width:688px)
 {
-
+    main{
+        margin:0 10px;
+    }
     nav{
         padding:0px 10px;
         }
@@ -221,6 +223,9 @@ footer{
 
 @media only screen and (min-width:688px) and (max-width:992px)
 {
+    main{
+        margin: 0 10px;
+    }
     nav{
         padding:0px 10px;
         }
